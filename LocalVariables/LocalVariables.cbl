@@ -8,7 +8,7 @@
       ******************************************************************
 
       $set sourceformat(variable)
-       program-id. LocalVariableAdd.
+       program-id. LocalVariables.
 
        working-storage section.
        01 numTd pic 9(5) typedef.

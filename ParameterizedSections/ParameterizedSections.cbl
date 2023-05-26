@@ -8,17 +8,17 @@
       ******************************************************************
 
       $set sourceformat(variable)
-       program-id. Fibonacci.
+       program-id. ParameterizedSections.
 
        procedure division.
-           display fib(10)
+           display fibonacci(10)
            goback.
 
-       fib section (n as binary-long) returning result as binary-long.
+       fibonacci section (n as binary-long) returning result as binary-long.
            if n <= 1
                move n to result
                exit section
            end-if
-           compute result = fib(n - 1) + fib(n - 2).
+           compute result = fibonacci(n - 1) + fibonacci(n - 2).
 
        end program.

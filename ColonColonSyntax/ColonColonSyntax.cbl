@@ -8,7 +8,7 @@
       ******************************************************************
 
       $set sourceformat(variable)
-       program-id. ColonColon.
+       program-id. ColonColonSyntax.
 
        local-storage section.
        01 vector-t typedef.
