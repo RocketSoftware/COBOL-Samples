@@ -23,8 +23,8 @@ The Colon-Colon Syntax is more concise and is more aligned with other modern pro
 
 ## Eclipse Debugging
 1. Open Enterprise Developer for Eclipse, launch a workspace, and close the welcome window
-2. Select `File`, `Import`, `General`, `Existing projects into workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `ColonColonSyntax` folder and `Finish`
-4. Open a debug perspective: `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`
+2. Import the project by selecting `File`, `Import`, `General`, `Existing projects into workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `ColonColonSyntax` folder and `Finish`
+4. Open a debug perspective by selecting `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`
 5. Under `Project Explorer` select `ColonColonSyntax`, `COBOL Programs`, then `ColonColonSyntax.cbl` to view the program
 6. Debug the program
 
