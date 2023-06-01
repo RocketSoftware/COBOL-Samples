@@ -4,7 +4,7 @@
 
 This is a sample program demonstrating the usage of Local Variables, a feature available in Micro Focus COBOL.
 
-The Local Variables feature allows for the creation of variables that are scoped to the sections in which they are declared. This allows the user to create temporary variables for doing work in sections without having to declare permanent variables in the data division which has historically been a cause of bugs and harder-to-maintain code.
+The Local Variables feature allows for the creation of variables that are scoped to the sections in which they are declared. This allows the user to create temporary variables for doing work inside sections without having to declare permanent variables in the data division which has historically been a cause of bugs and harder-to-maintain code.
 
 An example of this is found in `LocalVariables.cbl` with the local variable `result` being used for computation and displaying.
 
