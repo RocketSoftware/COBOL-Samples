@@ -1,10 +1,10 @@
-# Colon-Colon Syntax
+# Colon-Colon syntax
 
 ## Overview
 
-This is a sample program demonstrating the usage of the Colon-Colon Syntax, a feature available in Micro Focus COBOL.
+This is a sample program demonstrating the usage of Colon-Colon syntax, a feature available in Micro Focus COBOL.
 
-The Colon-Colon Syntax is a member-access feature that allows members of a group to be accessed by specifying the group before specifying the member.
+Colon-Colon syntax is a member-access feature that allows members of a group to be accessed by specifying the group before specifying the member.
 
 e.g. `group::member`
 
@@ -12,7 +12,7 @@ This is different from the traditional syntax that specifies the member before s
 
 e.g. `member of group`
 
-The Colon-Colon Syntax is more concise and is more aligned with other modern programming languages.
+Colon-Colon syntax is more concise and is aligned with other modern programming languages.
 
 
 ## Visual Studio Debugging
