@@ -5,12 +5,10 @@
 This is a sample program demonstrating the usage of Colon-Colon syntax, a feature available in Micro Focus COBOL.
 
 Colon-Colon syntax is a member-access feature that allows a user to access members of a group by specifying the group before specifying the member.
-
-e.g. *`group`*`::`*`member`*
+<pre><i>group</i>::<i>member</i></pre>
 
 This is different from the traditional syntax that specifies the member before specifying the group.
-
-e.g. *`member`*`  of  `*`group`*
+<pre><i>member</i> OF <i>group</i></pre>
 
 Colon-Colon syntax is more concise and is aligned with other modern programming languages.
 

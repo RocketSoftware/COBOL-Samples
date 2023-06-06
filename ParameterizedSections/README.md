@@ -8,7 +8,7 @@ Parameterized Sections are sections that allow parameters to be passed into them
 
 Historically a variable would need to be declared in the `DATA DIVISION` and then be appropriately defined to pass data into a section. This approach is quite verbose code and can also lead to bugs and harder-to-maintain code due to the fact that these variables are often shared across different section calls.
 
-Parameterized sections can also return a value using the `returning` keyword, once again reducing the need for extra variables.
+Parameterized sections can also return a value using the `RETURNING` keyword, once again reducing the need for extra variables.
 
 ## Visual Studio Debugging
 1. Open `ParameterizedSections.sln`.
