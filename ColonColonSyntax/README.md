@@ -4,29 +4,29 @@
 
 This is a sample program demonstrating the usage of Colon-Colon syntax, a feature available in Micro Focus COBOL.
 
-Colon-Colon syntax is a member-access feature that allows members of a group to be accessed by specifying the group before specifying the member.
+Colon-Colon syntax is a member-access feature that allows a user to access members of a group by specifying the group before specifying the member.
 
-e.g. `group::member`
+e.g. *`group`*`::`*`member`*
 
 This is different from the traditional syntax that specifies the member before specifying the group.
 
-e.g. `member of group`
+e.g. *`member`*`  of  `*`group`*
 
 Colon-Colon syntax is more concise and is aligned with other modern programming languages.
 
 
 ## Visual Studio Debugging
-1. Open `ColonColonSyntax.sln`
-2. Under `Solution Explorer` select `ColonColonSyntax`, then `ColonColonSyntax.cbl` to view the program
-3. Place a breakpoint by clicking in the far left margin next to a non-commented line of code within the `procedure division`
-4. Debug the program
+1. Open `ColonColonSyntax.sln`.
+2. Under `Solution Explorer` select `ColonColonSyntax`, then `ColonColonSyntax.cbl` to view the program.
+3. Place a breakpoint by clicking in the far left margin next to a non-commented line of code within the `PROCEDURE DIVISION`.
+4. Debug the program.
 
 ## Eclipse Debugging
-1. Open Enterprise Developer for Eclipse, launch a workspace, and close the welcome window
-2. Import the project by selecting `File`, `Import`, `General`, `Existing projects into workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `ColonColonSyntax` folder and `Finish`
-4. Open a debug perspective by selecting `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`
-5. Under `Project Explorer` select `ColonColonSyntax`, `COBOL Programs`, then `ColonColonSyntax.cbl` to view the program
-6. Debug the program
+1. Open Enterprise Developer for Eclipse, launch a workspace, and close the welcome window.
+2. Import the project by selecting `File`, `Import`, `General`, `Existing Projects into Workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `ColonColonSyntax` folder and `Finish`.
+3. Open the debug perspective by selecting `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`.
+4. Under `Project Explorer` select `ColonColonSyntax`, `COBOL Programs`, then `ColonColonSyntax.cbl` to view the program.
+5. Debug the program.
 
 ## License
 

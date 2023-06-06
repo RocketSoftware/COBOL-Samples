@@ -8,17 +8,17 @@ This is a sample program implementing a Merge Sort using the following features 
 * [Parameterized Sections](https://github.com/MicroFocus/COBOL-Samples/tree/main/ParameterizedSections)
 
 ## Visual Studio Debugging
-1. Open `MergeSort.sln`
-2. Under `Solution Explorer` select `MergeSort`, then `MergeSort.cbl` to view the program
-3. Place a breakpoint by clicking in the far left margin next to a non-commented line of code within the `procedure division`
-4. Debug the program
+1. Open `MergeSort.sln`.
+2. Under `Solution Explorer` select `MergeSort`, then `MergeSort.cbl` to view the program.
+3. Place a breakpoint by clicking in the far left margin next to a non-commented line of code within the `PROCEDURE DIVISION`.
+4. Debug the program.
 
 ## Eclipse Debugging
-1. Open Enterprise Developer for Eclipse, launch a workspace, and close the welcome window
-2. Import the project by selecting `File`, `Import`, `General`, `Existing projects into workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `MergeSort` folder and `Finish`
-4. Open a debug perspective by selecting `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`
-5. Under `Project Explorer` select `MergeSort`, `COBOL Programs`, then `MergeSort.cbl` to view the program
-6. Debug the program
+1. Open Enterprise Developer for Eclipse, launch a new workspace, and close the welcome window.
+2. Import the project by selecting `File`, `Import`, `General`, `Existing Projects into Workspace`. In `Select root directory` select `Browse` and navigate to where you cloned this github repository, select the `MergeSort` folder and `Finish`.
+4. Open the debug perspective by selecting `Window`, `Perspective`, `Open Perspective`, `Other...`, `Debug`.
+5. Under `Project Explorer` select `MergeSort`, `COBOL Programs`, then `MergeSort.cbl` to view the program.
+6. Debug the program.
 
 ## License
 
