@@ -1,10 +1,10 @@
-# Micro Focus COBOL Samples
+# Samples for OpenText™ Micro Focus Visual COBOL and OpenText™ Micro Focus Enterprise Developer
 
 This repository contains samples for the Micro Focus COBOL language.
 
 ## License
 
-Copyright (C) 2023 Micro Focus. All Rights Reserved.
+Copyright 2023 Open Text. All Rights Reserved.
 This software may be used, modified, and distributed
 (provided this notice is included without modification)
 solely for internal demonstration purposes with other
