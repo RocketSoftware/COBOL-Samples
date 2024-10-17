@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a sample program demonstrating the usage of Local Variables, a feature available in Micro Focus COBOL.
+This is a sample program demonstrating the usage of Local Variables, a feature available in Rocket® Visual COBOL®.
 
 The Local Variables feature allows for the creation of variables that are scoped to the sections in which they are declared. These variables are allocated when the section is `PERFORM`ed, and deallocated when the `PERFORM` of the section exits. This allows the user to create temporary variables for doing work inside sections without having to declare globally visible variables in the `DATA DIVISION`. This can be a cause of bugs. Local variables make the code easier to understand and maintain.
 

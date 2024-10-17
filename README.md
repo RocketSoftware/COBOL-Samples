@@ -1,6 +1,6 @@
-# Samples for OpenText™ Micro Focus Visual COBOL and OpenText™ Micro Focus Enterprise Developer
+# Samples for Rocket® Visual COBOL® and Rocket® Enterprise Developer
 
-This repository contains samples for the Micro Focus COBOL language.
+This repository contains samples for the Rocket® Visual COBOL® language.
 
 ## License
 

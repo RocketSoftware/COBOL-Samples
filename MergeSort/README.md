@@ -2,10 +2,10 @@
 
 ## Overview
 
-This is a sample program implementing a Merge Sort using the following features available in Micro Focus COBOL:
-* [Colon-Colon Syntax](https://github.com/MicroFocus/COBOL-Samples/tree/main/ColonColonSyntax)
-* [Local Variables](https://github.com/MicroFocus/COBOL-Samples/tree/main/LocalVariables)
-* [Parameterized Sections](https://github.com/MicroFocus/COBOL-Samples/tree/main/ParameterizedSections)
+This is a sample program implementing a Merge Sort using the following features available in Rocket® Visual COBOL®:
+* [Colon-Colon Syntax](https://github.com/RocketSoftware/COBOL-Samples/tree/main/ColonColonSyntax)
+* [Local Variables](https://github.com/RocketSoftware/COBOL-Samples/tree/main/LocalVariables)
+* [Parameterized Sections](https://github.com/RocketSoftware/COBOL-Samples/tree/main/ParameterizedSections)
 
 ## Visual Studio Debugging
 1. Open `MergeSort.sln`.

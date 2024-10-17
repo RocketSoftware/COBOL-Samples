@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a sample program demonstrating the usage of Parameterized Sections, a feature available in Micro Focus COBOL.
+This is a sample program demonstrating the usage of Parameterized Sections, a feature available in Rocket® Visual COBOL®.
 
 Parameterized Sections are sections that allow parameters to be passed into them without the need for the value to be stored inside a variable first.
 

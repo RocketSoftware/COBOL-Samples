@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a sample program demonstrating the usage of Colon-Colon syntax, a feature available in Micro Focus COBOL.
+This is a sample program demonstrating the usage of Colon-Colon syntax, a feature available in Rocket® Visual COBOL®.
 
 Colon-Colon syntax is a member-access feature that allows a user to access members of a group by specifying the group before specifying the member.
 <pre><i>group</i>::<i>member</i></pre>
